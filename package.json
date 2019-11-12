@@ -18,7 +18,9 @@
     "eject": "react-scripts eject",
     "semantic-release": "semantic-release"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/@LeoUrzua" },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@LeoUrzua"
+  },
   "eslintConfig": {
     "extends": "react-app"
   },
