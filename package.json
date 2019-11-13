@@ -41,6 +41,9 @@
     "url": "https://github.com/LeoUrzua/skeleton-react-storybook.git"
   },
   "devDependencies": {
+    "@commitlint/cli": "^8.2.0",
+    "@commitlint/config-conventional": "^8.2.0",
+    "husky": "^3.0.9",
     "semantic-release": "^15.13.30"
   }
 }
