@@ -16,7 +16,7 @@ const App: React.FC = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Publish a new version
+          Publish version 1.1.0
         </a>
       </header>
     </div>
