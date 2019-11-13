@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/LeoUrzua/skeleton-react-storybook/compare/v1.1.1...v1.1.2) (2019-11-13)
+
+
+### Bug Fixes
+
+* publish gh tags ([319986b](https://github.com/LeoUrzua/skeleton-react-storybook/commit/319986b56ccbf202f547eb4d5352fcfd29c39906))
+
 ## [1.1.1](https://github.com/LeoUrzua/skeleton-react-storybook/compare/v1.1.0...v1.1.1) (2019-11-13)
 
 
