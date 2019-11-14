@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/LeoUrzua/skeleton-react-storybook/compare/v1.1.2...v1.1.3) (2019-11-14)
+
+
+### Bug Fixes
+
+* update to 1.1.2 ([0f2ac7a](https://github.com/LeoUrzua/skeleton-react-storybook/commit/0f2ac7a6b3a5e2f8abce74d3880a30d26a9a5fb8))
+
 ## [1.1.2](https://github.com/LeoUrzua/skeleton-react-storybook/compare/v1.1.1...v1.1.2) (2019-11-13)
 
 
